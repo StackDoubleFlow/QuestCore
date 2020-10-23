@@ -1,0 +1,25 @@
+{
+	"id": "Multiplayer",
+	"name": "Multiplayer",
+	"author": "StackDoubleFlow",
+	"description": [
+		"Adds multiplayer capabilities to Beat Saber on the Oculus Quest."
+	],
+	"category": "Other",
+	"gameVersion": "1.12.2",
+	"version": "0.1.0",
+	"links": {
+		"project-home": "https://github.com/StackDoubleFlow/Multiplayer"
+	},
+	"platform": "Quest",
+	"components": [{
+			"Type": "HookMod",
+			"InstallAction": {
+				"InstallLibraryFile": "multiplayer.so"
+			},
+			"UninstallAction": {
+				"RemoveLibraryFile": "multiplayer.so"
+			}
+		}
+	]
+}
