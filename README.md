@@ -1,3 +1,3 @@
-# BSQuestTemplate
+# Quest Core
 
-This is a simple template to help you get jumpstarted on modding BeatSaber
+This is a port of some peices of SongCore for the Quest version of Beat Saber.
