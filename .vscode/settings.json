@@ -3,6 +3,9 @@
         "cmath": "cpp",
         "complex": "cpp",
         "valarray": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "initializer_list": "cpp",
+        "locale": "cpp",
+        "string": "cpp"
     }
 }
